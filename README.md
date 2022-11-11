@@ -1,16 +1,21 @@
 # todo_sample
+Flutterで個人開発を実施。
+そのとっかかりとしてToDoリストアプリを作成
 
-A new Flutter project.
+## 仕様
+・アプリを起動すると、リスト一覧画面が表示される
+・初期はリスト一覧画面は記載なし
+・「＋」を押下すると、リスト追加画面に遷移
+・追加すると、一覧画面に反映
 
-## Getting Started
+## 参考文献
+本プロジェクトの参考文献を記載しておく。
 
-This project is a starting point for a Flutter application.
+### Webページ
+https://www.flutter-study.dev/todo-app/list-page
 
-A few resources to get you started if this is your first Flutter project:
+### 書籍
+基礎から学ぶFlutter
+著者：石井 幸次
+内容：三章 Widget
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
